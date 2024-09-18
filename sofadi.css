@@ -1,5 +1,6 @@
-.sofadi-one-regular {
-  font-family: "Sofadi One", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
+@font-face {
+	font-family:"Sofadi One";
+	font-style:normal;
+	font-weight:400;
+	src:url(https://vwag-fonts-hosting.s3.eu-west-1.amazonaws.com/VWAG_TheSans_Web/VWAGTheSans-Regular.woff2) format("woff2-variations"),url(https://vwag-fonts-hosting.s3.eu-west-1.amazonaws.com/VWAG_TheSans_Web/VWAGTheSans-Regular.woff) format("woff")
+	}
